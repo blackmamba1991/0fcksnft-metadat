@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #893",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/893.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "white"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "nowilltolive"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "badmorning"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

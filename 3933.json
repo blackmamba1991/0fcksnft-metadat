@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #3933",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/3933.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "white"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "shocked"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "dizzy"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "lime"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "look4job"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

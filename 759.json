@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #759",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/759.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "nowilltolive"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "white"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "badmorning"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

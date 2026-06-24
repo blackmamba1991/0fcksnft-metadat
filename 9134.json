@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #9134",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/9134.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightyellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "ded"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "cryalittle"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "green"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "wandie"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #6904",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/6904.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "white"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "ded"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "downbad"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

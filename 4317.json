@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #4317",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/4317.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightgreen"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "everythingfine"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "turqoise"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "downbad"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

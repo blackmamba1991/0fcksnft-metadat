@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #4442",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/4442.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightyellow"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "whyyyyyyyy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "shock"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "turqoise"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "fuku"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

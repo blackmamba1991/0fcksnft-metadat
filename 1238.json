@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #1238",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/1238.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "turqoise"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "angry"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ngmi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

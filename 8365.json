@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #8365",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/8365.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightpink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "ded"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "everythingfine"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "look4job"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

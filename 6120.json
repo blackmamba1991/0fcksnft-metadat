@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #6120",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/6120.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightorange"
+    },
+    {
+      "trait_type": "Type",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "omggg"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "turqoise"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "downbad"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

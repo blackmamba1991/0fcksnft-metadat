@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #9895",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/9895.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightorange"
+    },
+    {
+      "trait_type": "Type",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "plain"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "red"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "fukdis"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

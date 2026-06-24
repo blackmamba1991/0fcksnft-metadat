@@ -1,0 +1,32 @@
+{
+  "name": "Fuker #2063",
+  "description": "FUK EVERYTHING",
+  "image": "ipfs://QmRTrkoW9mVZUrirpy7Aac4EbEKWEFfHKrW6F3pmggLMCG/2063.png",
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "lightpink"
+    },
+    {
+      "trait_type": "Type",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "nowilltolive"
+    },
+    {
+      "trait_type": "Shirt Color",
+      "value": "green"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "ngmi"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
